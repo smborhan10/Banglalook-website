@@ -1,0 +1,15 @@
+
+img{
+    width: 100%;
+}
+.text-up h1{
+    background-color: red;
+    color: white;
+    display: block;
+    overflow: hidden;
+    margin-top: -200px;
+}
+.headlogo p{
+    font-size: 14px;
+}
+
